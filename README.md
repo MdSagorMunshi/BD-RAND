@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/Version-0.1-blue.svg)](https://github.com/MdSagorMunshi/BD-RAND)
 
 ## AUTHOR
-- [Md Sagor Munshi] [(http://facebook.com/100000852187941)]
+[![Md Sagor Munshi](http://facebook.com/100000852187941){:target="_blank"}
 
 ## INSTALLATION & USAGE
 ````
