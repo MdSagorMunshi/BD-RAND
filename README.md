@@ -8,6 +8,7 @@
 
 ## INSTALLATION & USAGE
 ````
+rm -rf BD-RAND
 git clone https://github.com/MdSagorMunshi/BD-RAND.git
 cd BD-RAND
 python SAGOR.py
